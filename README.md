@@ -1,3 +1,7 @@
+# Amazon clone using Reactjs
+## Clone of Popular e-commerce website Amazon build with Reactjs, Material-UI, and Firebase.
+### Here are some screenshots:-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
