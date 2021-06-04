@@ -1,4 +1,4 @@
-# Amazon clone using Reactjs
+# Amazon clone using React
  Clone of Popular e-commerce website Amazon build with Reactjs, Material-UI, and Firebase.
 
  Here are some screenshots:-
