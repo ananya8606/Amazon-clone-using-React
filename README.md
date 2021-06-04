@@ -2,6 +2,7 @@
  Clone of Popular e-commerce website Amazon build with Reactjs, Material-UI, and Firebase.
 
  Here are some screenshots:-
+
 ![ ](https://i.ibb.co/wCf7fgy/Before-Login.png)
 ![ ](https://i.ibb.co/S0BXs7p/Authentication.png)
 ![ ](https://i.ibb.co/0jx2y1L/After-Login.png)
